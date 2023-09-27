@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**yxzhin/yxzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍬🦋 южин/yuzhin | Алексей Евгеньевич 🦋🍬
+- **he/him, 14 y.o.** from Russia living in Serbia
+- preferred languages: russian/english/serbian
+- organization: @yxzhin-studio-inc
+- best projects: **yxzgdps**, **yxzrpg** (check my pins)
+- backend dev, discord bots dev & gamedev
+- **php, python, c#, sql, html**
+- frameworks: for discord bots -> **pycord** (preferred), **discord.py** (secondary), for gamedev -> **ursina engine**
+- composer (**fl studio 20**)
+- yxzrpg soundtrack is available on **soundcloud** & **youtube**: @yxzhin
+## contact/devlog
+- website (still in development): **http://yxzhinstudio.000webhostapp.com**
+- telegram/discord/youtube/habr: **@yxzhin**
+- telegram channel (russian only): **t.me/ae_yuzhin**
+- steam: @cr7pt0nX
+- discord server: currently unavailable
