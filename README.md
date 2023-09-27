@@ -1,7 +1,7 @@
 ## 🍬🦋 южин/yuzhin | Алексей Евгеньевич 🦋🍬
 - **he/him, 14 y.o.** from Russia living in Serbia
 - preferred languages: russian/english/serbian
-- organization: @yxzhin-studio-inc
+- organization: https://github.com/yxzhin-studio-inc
 - best projects: **yxzgdps**, **yxzrpg** (check my pins)
 - backend dev, discord bots dev & gamedev
 - **php, python, c#, sql, html**
