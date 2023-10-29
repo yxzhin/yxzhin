@@ -3,7 +3,7 @@
 - preferred languages: russian/english/serbian
 - clantag: \[coffee>tea\]
 - organization: https://github.com/yxzhin-studio-inc
-- best projects: **yxzhinAppFramework**, **yxzgdps**, **yxzrpg** (check my pins)
+- best projects: **yxzhinAppFramework**, **yxzbot**, **yxzgdps** (check my pins)
 - backend dev, discord bots dev & gamedev
 - **php, python, c#, sql, html**
 - frameworks: for discord bots -> **pycord** (preferred), **discord.py** (secondary), for gamedev -> **ursina engine**
