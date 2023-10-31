@@ -14,4 +14,4 @@
 - telegram/discord/youtube/habr: **@yxzhin**
 - telegram channel (russian only): **t.me/ae_yuzhin**
 - steam: @cr7pt0nX
-- discord server: currently unavailable
+- discord server: https://discord.gg/w9fBQQ6qse
