@@ -11,7 +11,6 @@
 - yxzrpg soundtrack is available on **soundcloud** & **youtube**: @yxzhin
 ## contact/devlog
 - website (still in development): **http://yxzhinstudio.000webhostapp.com**
-- telegram/discord/youtube/habr: **@yxzhin**
+- telegram/discord/youtube/soundcloud: **@yxzhin**
 - telegram channel (russian only): **t.me/ae_yuzhin**
-- steam: @cr7pt0nX
 - discord server: https://discord.gg/w9fBQQ6qse
