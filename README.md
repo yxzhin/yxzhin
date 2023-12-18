@@ -1,7 +1,6 @@
 ## 🍬🦋 южин/yuzhin | Алексей Евгеньевич 🦋🍬
 - **he/him, 14 y.o.** from Russia living in Serbia
 - preferred languages: russian/english/serbian
-- clantag: \[coffee>tea\]
 - organization: https://github.com/yxzhin-studio-inc
 - best projects: **yxzhinAppFramework**, **yxzbot**, **yxzgdps** (check my pins)
 - backend dev, discord bots dev & gamedev
@@ -13,4 +12,3 @@
 - website (still in development): **http://yxzhinstudio.000webhostapp.com**
 - telegram/discord/youtube/soundcloud: **@yxzhin**
 - telegram channel (russian only): **t.me/ae_yuzhin**
-- discord server: https://discord.gg/w9fBQQ6qse
