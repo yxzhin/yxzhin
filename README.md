@@ -11,4 +11,3 @@
 ## contact/devlog
 - website (still in development): **http://yxzhinstudio.000webhostapp.com**
 - telegram/discord/youtube/soundcloud: **@yxzhin**
-- telegram channel (russian only): **t.me/ae_yuzhin**
