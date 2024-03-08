@@ -3,7 +3,7 @@
 - preferred languages: russian/english/serbian
 - organization: https://github.com/yxzhin-studio-inc
 - backend dev, discord bots dev
-- **php, python, c#, sql, html**
+- **php, python, sql, html**
 - frameworks: for discord bots -> **pycord** (preferred), **discord.py** (secondary)
 - composer (**fl studio 20**)
 - music is available on **soundcloud**, **youtube** & **newgrounds**: @yxzhin
