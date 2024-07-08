@@ -1,6 +1,7 @@
 ## Южин | GMD ДЕМОНСЛЕЕР
-- **he/him, 15 y.o.** from Russia living in Serbia
-- preferred languages: russian/english/serbian
-- organization: https://github.com/cirhalfstudio
-- backend dev, discord bots dev
-- **php, python, sql, c#, html**
+- _„собираем из костылей, велосипедов и стаковерфлова" (с) lemogames_
+- bio: https://tapy.me/yxzhin
+- website: https://cirf.hhos.net
+- discord: https://discord.com/invite/8fNJHSPHaX
+- personal yt channel: https://youtube.com/@gmddemonslayer
+- music channel: https://youtube.com/@yxzhin
