@@ -1,4 +1,4 @@
-## Южин | SpaceSRB | GMD ДЕМОНСЛЕЕР
+## Южин | SpaceRS | GMD ДЕМОНСЛЕЕР
 - _„собираем из костылей, велосипедов и стаковерфлова" (с) lemogames_
 - bio: https://tapy.me/yxzhin
 - website: https://cirf.hhos.net
