@@ -1,10 +1,11 @@
-## Южин | SpaceRS | GMD ДЕМОНСЛЕЕР
+## yxzhin // SpaceRS // Alexey Yuzhin
 - _„собираем из костылей, велосипедов и стаковерфлова" (с) lemogames_
+- detailed bio: https://tapy.me/yxzhin
 - a student of https://smart.edu.rs
 - can speak serbian, russian, english
-- personal yt channel: https://youtube.com/@spacesrb
+- main (gmd) yt channel: https://youtube.com/@spacesrb
 - music channel: https://youtube.com/@yxzhin
-- telegram channel: https://t.me/spacesrb
-- discord: https://discord.gg/SpTPjEBaqm
+- telegram: https://t.me/yxzhin
+- discord: https://discord.gg/XP6rARBqVS
 - co-owner of @cirhalfstudio
 - website: https://cirf.hhos.net
