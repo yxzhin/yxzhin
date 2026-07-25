@@ -8,4 +8,4 @@
 - telegram: https://t.me/yxzhin
 - discord: https://discord.gg/XP6rARBqVS
 - co-owner of @cirhalfstudio
-- website: https://cirf.hhos.net
+- website: https://yxzhin.uk
